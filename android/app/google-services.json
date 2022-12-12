@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "33796341053",
+    "project_id": "car-booking-fd477",
+    "storage_bucket": "car-booking-fd477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33796341053:android:b3a3158c7e35eff3d19954",
+        "android_client_info": {
+          "package_name": "com.mytaxi.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33796341053-471lg1i3jflgqu0a0spdkqdlvq9cr3u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytaxi.taxi",
+            "certificate_hash": "41dfda1d389dd78f8290c7666580b135c27043cb"
+          }
+        },
+        {
+          "client_id": "33796341053-afvvqtkaq2d1epec0r3vok5ko5v6tu5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytaxi.taxi",
+            "certificate_hash": "0e559f8a28a73f41e187b2a58eedb8ea68ca3a88"
+          }
+        },
+        {
+          "client_id": "33796341053-uqodfhsrrlphraqb40fcbg9fg2mch1be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytaxi.taxi",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "33796341053-kngbusc2tl29n6u2kbn0ork336sc7v90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MenC1YGahL4UNmljc-46j2YGpsJDKBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33796341053-kngbusc2tl29n6u2kbn0ork336sc7v90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
